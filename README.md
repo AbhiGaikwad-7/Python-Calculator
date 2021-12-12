@@ -31,4 +31,5 @@ elif choice=='%':
 	print("Modulo="+str(c));
 	
 else:
-		print("Incorrect choice!!")
+
+      print("Incorrect choice!!")
